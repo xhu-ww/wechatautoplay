@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">wechatservice</string>
+    <string name="auto_reply">微信自动回复</string>
+</resources>
